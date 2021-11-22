@@ -35,4 +35,5 @@ You have to store your Twitter and FTX API credentials into the .dev file and do
 >python3.8 ./twitter_stream.py
 
 I'm noobie in python so don't hesitate to make some improvements
+
 ----------------------------------------------------------------------------------------
