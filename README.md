@@ -8,7 +8,7 @@ The script will open a stream connection to twitter API and monitor Elon Musk tw
 If a mention of dogecoin is found in his last tweet, the script will immediately request a convert order from your USD balance and automatically convert it back to USD after 20 minutes.
 The script will also writed down in a Gsheet document every action so you know how much USD you made at the end of the convert process.
 
-![Gsheet](https://imgur.com/a/RZ47sB9)
+![alt text](https://imgur.com/a/RZ47sB9)
 
 ## Dependencies
 
