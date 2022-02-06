@@ -1,11 +1,11 @@
-# FTX Dogecoin bot powered buy Elon Musk on Twitter 
+# FTX Dogecoin bot powered by Elon Musk on Twitter 
 
-FTX-ELON-TWITTER-DOGE-BOT is a python script which monitor Elon Musk twitter feed for "Dogecoin" mention buy some coin before automatically selling it.
+FTX-ELON-TWITTER-DOGE-BOT is a python script which monitor Elon Musk twitter feed for "Dogecoin" keywords.
 
 *Be aware that this script is for educational purposes only, by an idea of antoinebaron-io*
 
 The script will open a stream connection to twitter API and monitor Elon Musk twitter account.
-If a mention of dogecoin is found in his last tweet, the script will immediately request a convert order from your USD balance and automatically convert it back to USD after 20 minutes.
+If a mention of dogecoin is found in his last tweet, the script will immediately request a convert order from your USD balance and automatically convert it back to USD after 15 minutes.
 
 The script will also writed down in a Gsheet document every action so you know how much USD you made at the end of the convert process.
 
@@ -33,7 +33,5 @@ You have to store your Twitter and FTX API credentials into the .dev file and do
 ## Usage
 
 >python3.8 ./twitter_stream.py
-
-I'm noobie in python so don't hesitate to make some improvements
 
 ----------------------------------------------------------------------------------------
