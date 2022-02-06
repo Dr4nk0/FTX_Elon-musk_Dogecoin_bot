@@ -114,7 +114,7 @@ def ftx_convert(fromCoin, toCoin, size) :
 #Sort wallet balance
 def ftx_sort_wallet_balance(balance):
     for crypto in balance:
-        if crypto['coin'] in Coins_list and crypto['availableWithoutBorrow'] > 0 :
+        if crypto['coin'] in Coins_list and crypto['availableWithoutBorrow'] > 1 :
             return crypto['availableWithoutBorrow']
             # in_wallet_coin = crypto['coin']
             # Wallet_balance.append({in_wallet_coin:crypto})
