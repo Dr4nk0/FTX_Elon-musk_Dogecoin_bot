@@ -34,6 +34,6 @@ printer = IDPrinter(
 #------PROGRAM STARTED--------------
 
 # Filter realtime Tweets by keyword
-printer.filter(track=["dogecoin"])
+printer.filter(track=["Dogecoin", "dogecoin", "DOGE", "doge", "$DOGE", "$doge", "$Dogecoin", "$DOGECOIN"])
 
 
