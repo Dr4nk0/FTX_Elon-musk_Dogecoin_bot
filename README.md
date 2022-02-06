@@ -24,7 +24,7 @@ The script works using :
 
 ## Installation
 
->pip3 install tweepy, gspread, requests
+>pip3 install tweepy, gspread, requests, python-decouple
 
 ## Configuration
 
