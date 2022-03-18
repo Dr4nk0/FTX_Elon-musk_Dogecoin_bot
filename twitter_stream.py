@@ -2,7 +2,7 @@ import ftx_setup
 import tweepy
 from decouple import config
 
-TWITTER_ID = {'Max_OP3' : 755865435900346368, 'elonmusk' : 44196397, 'WhaleTrades' : 968796006576947200}
+TWITTER_ID = {'Max_OP3' : 755865435900346368, 'elonmusk' : 44196397}
 
 main_ftx = ftx_setup.main
 
