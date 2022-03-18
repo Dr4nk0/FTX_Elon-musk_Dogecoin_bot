@@ -13,7 +13,7 @@ The script will also writed down in a Gsheet document every action so you know h
 
 ## Dependencies
 
-- API key from your FTX account (https://ftx.com/profile)
+- API key from your FTX account (https://ftx.com/referrals#a=3168006) Get 5% Fees off with my referral link :)
 - API key from twitter developer (https://developer.twitter.com/en/apply-for-access)
 - Google Gsheet API and service_account created with JSON creds (https://developers.google.com/workspace/guides/create-project)
 
